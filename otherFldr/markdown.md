@@ -35,3 +35,21 @@ this is a paragraph of text and things about dinosaurs.
 -   computer
 -   cars
 -   travel
+
+## todos
+
+-   mow the lawn
+-   clean the house
+    -   mop
+    -   sweep
+    -   pickup
+-   get groceries
+
+## order nested list
+
+1. pick up sticks
+1. build train
+    1. tracks
+    1. coal
+    1. engineer
+1. go to the moon
