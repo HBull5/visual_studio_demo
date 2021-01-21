@@ -17,3 +17,5 @@ _ITALIC TEXT_
 **_BOLD ITALIC TEXT_**
 
 ##### **BOLD SMALLER HEADING**
+
+this is a paragraph of text and things about dinosaurs.
