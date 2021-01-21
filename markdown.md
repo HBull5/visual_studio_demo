@@ -20,4 +20,4 @@ _ITALIC TEXT_
 
 this is a paragraph of text and things about dinosaurs.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+[wIkIpEdIa](https://en.wikipedia.org/wiki/Main_Page)
