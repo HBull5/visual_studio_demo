@@ -60,6 +60,6 @@ this is a paragraph of text and things about dinosaurs.
 
 ## Todos
 
--   [x] walk the dog
--   [] pick up the kids
--   [] write awesome application
+[x] walk the dog
+[] pick up the kids
+[] write awesome application
