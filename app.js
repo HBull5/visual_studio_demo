@@ -1,14 +1,13 @@
-function foo() {
-	if (true) {
-		const arr = [1, 3, 5];
-		for (const ele of arr) {
-			console.log(ele);
-		}
-	} else {
-		console.log('something else');
-	}
-}
+const hello = 'hello';
+const y = 'world';
 
-function bar() {
-	console.log('whatever');
-}
+console.log(x + ' ' + y);
+console.log(hello);
+
+const str = 'hello world';
+
+const str = 'hello world';
+
+const str = 'hello world';
+
+const str = 'hello world';
