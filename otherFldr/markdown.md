@@ -43,6 +43,8 @@ this is a paragraph of text and things about dinosaurs.
     -   mop
     -   sweep
     -   pickup
+        -   living room
+        -   kitchen
 -   get groceries
 
 ## order nested list
@@ -51,5 +53,7 @@ this is a paragraph of text and things about dinosaurs.
 1. build train
     1. tracks
     1. coal
+        1. dig in the earth
+        1. refine coal
     1. engineer
 1. go to the moon
