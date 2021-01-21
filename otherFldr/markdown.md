@@ -24,4 +24,8 @@ this is a paragraph of text and things about dinosaurs.
 
 ![race car](https://images.unsplash.com/photo-1604041805227-8a08e833dacb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
-![space planet](fldr/space_planet.jpg);
+![space planet](../fldr/space_planet.jpg);
+
+1. item #1
+2. item #2
+3. item #3
