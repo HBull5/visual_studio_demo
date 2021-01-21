@@ -57,3 +57,9 @@ this is a paragraph of text and things about dinosaurs.
         1. refine coal
     1. engineer
 1. go to the moon
+
+## Todos
+
+-   [x] walk the dog
+-   [] pick up the kids
+-   [] write awesome application
