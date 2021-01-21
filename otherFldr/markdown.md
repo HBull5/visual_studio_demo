@@ -63,3 +63,24 @@ this is a paragraph of text and things about dinosaurs.
 -   [x] walk the dog
 -   [x] pick up the kids
 -   [ ] write awesome application
+
+## Codeblocks
+
+```
+hello world this is just plain text
+console.log('hello world');
+```
+
+```js
+console.log('hello world');
+```
+
+```html
+<h1>hello</h1>
+```
+
+```css
+* {
+	color: green;
+}
+```
