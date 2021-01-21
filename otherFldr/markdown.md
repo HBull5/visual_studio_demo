@@ -29,3 +29,9 @@ this is a paragraph of text and things about dinosaurs.
 1. item #1
 1. item #2
 1. item #3
+
+-   item
+
+*   item
+
+-   item
