@@ -9,3 +9,9 @@
 ##### BIG HEADING
 
 ###### BIG HEADING
+
+**BOLD TEXT**
+
+_ITALIC TEXT_
+
+**_BOLD ITALIC TEXT_**
