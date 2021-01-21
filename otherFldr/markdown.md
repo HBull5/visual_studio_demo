@@ -31,7 +31,5 @@ this is a paragraph of text and things about dinosaurs.
 1. item #3
 
 -   item
-
-*   item
-
+-   item
 -   item
